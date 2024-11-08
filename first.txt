@@ -6,3 +6,5 @@ git status
 git add
 git commit
 git push
+git log
+git diff
