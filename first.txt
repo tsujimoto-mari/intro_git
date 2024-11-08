@@ -1,2 +1,8 @@
 Git practice
 learn about basic workflow
+
+leaned commands below
+git status
+git add
+git commit
+git push
